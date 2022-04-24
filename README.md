@@ -1,4 +1,4 @@
-# Project URL:
+# Project URL
 
 https://oj-eshop.netlify.app
 
